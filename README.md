@@ -1,0 +1,2 @@
+# Faculty-Portal
+-A faculty web page is created in this project in which a faculty can create, login, edit        his profile and post information for students(documents) - It includes security features like captcha and password verification                                                              - Implemented a Django based web portal made using SQL database for the professors of an institute to maintain their public profiles as well as to maintain their courses, projects and the students working under them.
